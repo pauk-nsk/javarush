@@ -1,2 +1,4 @@
-python-telegram-bot
-openai
+openai==1.60.2
+python-telegram-bot==21.10
+httpx==0.28.1
+g4f==0.4.5.5
